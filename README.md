@@ -29,3 +29,5 @@ PATCH /order/:id: Essa rota recebe o id nos parametros e assim quela for chamada
 <img src="Insomnia 17_12_2023 21_55_11.png"
 ,br>
 <img src="Insomnia 17_12_2023 21_53_12.png">
+<br>
+<img src="Insomnia 17_12_2023 21_53_05.png">
