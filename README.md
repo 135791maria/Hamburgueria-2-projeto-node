@@ -28,4 +28,4 @@ GET/order/:id:Essa rota recebe o id nos parametros e deve retornar um pedido esp
 PATCH /order/:id: Essa rota recebe o id nos parametros e assim quela for chamada, deve colocar o status do pedido como  pronto. 
 <img src="Insomnia 17_12_2023 21_55_11.png"
 ,br>
-<img src+"Insomnia 17_12_2023 21_53_12.png">
+<img src="Insomnia 17_12_2023 21_53_12.png">
